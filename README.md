@@ -2,8 +2,11 @@
 management.
 
 #Default Login Credentials
+
 Role	Username Password
+
 Admin	 admin	  admin123
+
 User	 john	    user123
 
 #Features
